@@ -84,10 +84,7 @@ include "header.php";
                                                 <input type="checkbox" id="create_account">
                                                 <label for="create_account">Create an Acount?</label>
                                             </div>
-                                            <div class="check-box">
-                                                <input type="checkbox" id="shiping_address" data-shipping>
-                                                <label for="shiping_address">Ship to Different Address</label>
-                                            </div>
+                                            
                                         </div>
 
                                     </div>
@@ -176,78 +173,18 @@ include "header.php";
                                             <h4>Product <span>Total</span></h4>
 
                                             <ul>
-                                                <li>Cillum dolore tortor nisl X 01 <span>$25.00</span></li>
-                                                <li>Auctor gravida pellentesque X 02 <span>$50.00</span></li>
-                                                <li>Condimentum posuere consectetur X 01 <span>$29.00</span></li>
-                                                <li>Habitasse dictumst elementum X 01 <span>$10.00</span></li>
+                                                <li>Cillum dolore tortor nisl X 01 <span>₹ 25.00</span></li>
                                             </ul>
 
-                                            <p>Sub Total <span>$104.00</span></p>
-                                            <p>Shipping Fee <span>$00.00</span></p>
-
-                                            <h4>Grand Total <span>$104.00</span></h4>
-
+                                            <p>Sub Total <span>₹ 104.00</span></p>
+                                            <p>Shipping Fee <span>₹ 00.00</span></p>
+                                            <h4>Grand Total <span>₹ 104.00</span></h4>
                                         </div>
-
                                     </div>
 
                                     <!-- Payment Method -->
                                     <div class="col-12">
-
-                                        <h4 class="checkout-title">Payment Method</h4>
-
-                                        <div class="checkout-payment-method">
-
-                                            <div class="single-method">
-                                                <input type="radio" id="payment_check" name="payment-method"
-                                                    value="check">
-                                                <label for="payment_check">Check Payment</label>
-                                                <p data-method="check">Please send a Check to Store name with Store
-                                                    Street, Store Town, Store State, Store Postcode, Store Country.</p>
-                                            </div>
-
-                                            <div class="single-method">
-                                                <input type="radio" id="payment_bank" name="payment-method"
-                                                    value="bank">
-                                                <label for="payment_bank">Direct Bank Transfer</label>
-                                                <p data-method="bank">Please send a Check to Store name with Store
-                                                    Street, Store Town, Store State, Store Postcode, Store Country.</p>
-                                            </div>
-
-                                            <div class="single-method">
-                                                <input type="radio" id="payment_cash" name="payment-method"
-                                                    value="cash">
-                                                <label for="payment_cash">Cash on Delivery</label>
-                                                <p data-method="cash">Please send a Check to Store name with Store
-                                                    Street, Store Town, Store State, Store Postcode, Store Country.</p>
-                                            </div>
-
-                                            <div class="single-method">
-                                                <input type="radio" id="payment_paypal" name="payment-method"
-                                                    value="paypal">
-                                                <label for="payment_paypal">Paypal</label>
-                                                <p data-method="paypal">Please send a Check to Store name with Store
-                                                    Street, Store Town, Store State, Store Postcode, Store Country.</p>
-                                            </div>
-
-                                            <div class="single-method">
-                                                <input type="radio" id="payment_payoneer" name="payment-method"
-                                                    value="payoneer">
-                                                <label for="payment_payoneer">Payoneer</label>
-                                                <p data-method="payoneer">Please send a Check to Store name with Store
-                                                    Street, Store Town, Store State, Store Postcode, Store Country.</p>
-                                            </div>
-
-                                            <div class="single-method">
-                                                <input type="checkbox" id="accept_terms">
-                                                <label for="accept_terms">I’ve read and accept the terms &
-                                                    conditions</label>
-                                            </div>
-
-                                        </div>
-
                                         <button class="place-order">Place order</button>
-
                                     </div>
 
                                 </div>

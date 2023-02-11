@@ -395,33 +395,10 @@ include "header.php";
                                     <div class="single-slider-product__image">
                                         <a href="single-product.html">
                                             <img width="600" height="600" src="assets/img/products/medium10.webp" class="img-fluid" alt="">
-                                            <img width="600" height="600" src="assets/img/products/medium11.webp" class="img-fluid" alt="">
                                         </a>
-
                                         <span class="discount-label discount-label--green">-10%</span>
-
-                                        <div class="hover-icons">
-                                            <ul>
-                                                <li><a data-bs-toggle="modal" data-bs-target="#quick-view-modal-container"
-                                                        href="javascript:void(0)"><i class="icon-eye"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-heart"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-sliders"></i></a></li>
-                                            </ul>
-                                        </div>
                                     </div>
-
                                     <div class="single-slider-product__content">
-                                        <div class="product-availability mb-15">
-                                            <div class="product-availability__text">
-                                                <div class="sold">Sold:1400</div>
-                                                <div class="remaining">Available:230</div>
-                                            </div>
-                                            <div class="progress">
-                                                <div class="progress-bar bg-warning" role="progressbar"
-                                                    style="width: 75%" aria-valuenow="75" aria-valuemin="0"
-                                                    aria-valuemax="100"></div>
-                                            </div>
-                                        </div>
                                         <p class="product-title"><a href="single-product.html">Cillum dolore garden
                                                 tools</a></p>
                                         <div class="rating">
@@ -431,185 +408,14 @@ include "header.php";
                                             <i class="ion-android-star active"></i>
                                             <i class="ion-android-star"></i>
                                         </div>
-                                        <p class="product-price"><span class="discounted-price">$100.00</span> <span
-                                                class="main-price discounted">$120.00</span></p>
+                                        <p class="product-price"><span class="discounted-price">₹ 100.00</span> <span
+                                                class="main-price discounted">₹ 120.00</span></p>
 
                                         <span class="cart-icon"><a href="javascript:void(0)"><i
                                                     class="icon-shopping-cart"></i></a></span>
                                     </div>
                                 </div>
-
                             </div>
-
-                            <!--=======  End of single slider product  =======-->
-
-                            <!--=======  single slider product  =======-->
-
-                            <div class="single-slider-product-wrapper">
-                                <div class="single-slider-product">
-                                    <div class="single-slider-product__image">
-                                        <a href="single-product.html">
-                                            <img width="600" height="600" src="assets/img/products/medium12.webp" class="img-fluid" alt="">
-                                            <img width="600" height="600" src="assets/img/products/medium13.webp" class="img-fluid" alt="">
-                                        </a>
-
-                                        <span class="discount-label discount-label--green">-15%</span>
-
-                                        <div class="hover-icons">
-                                            <ul>
-                                                <li><a data-bs-toggle="modal" data-bs-target="#quick-view-modal-container"
-                                                        href="javascript:void(0)"><i class="icon-eye"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-heart"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-sliders"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-
-                                    <div class="single-slider-product__content">
-                                        <div class="product-availability mb-15">
-                                            <div class="product-availability__text">
-                                                <div class="sold">Sold:1400</div>
-                                                <div class="remaining">Available:230</div>
-                                            </div>
-                                            <div class="progress">
-                                                <div class="progress-bar bg-warning" role="progressbar"
-                                                    style="width: 75%" aria-valuenow="75" aria-valuemin="0"
-                                                    aria-valuemax="100"></div>
-                                            </div>
-                                        </div>
-                                        <p class="product-title"><a href="single-product.html">Lorem ipsum garden
-                                                tools</a></p>
-                                        <div class="rating">
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star"></i>
-                                        </div>
-                                        <p class="product-price"><span class="discounted-price">$50.00</span> <span
-                                                class="main-price discounted">$70.00</span></p>
-
-                                        <span class="cart-icon"><a href="javascript:void(0)"><i
-                                                    class="icon-shopping-cart"></i></a></span>
-                                    </div>
-                                </div>
-
-                            </div>
-
-                            <!--=======  End of single slider product  =======-->
-
-                            <!--=======  single slider product  =======-->
-
-                            <div class="single-slider-product-wrapper">
-                                <div class="single-slider-product">
-                                    <div class="single-slider-product__image">
-                                        <a href="single-product.html">
-                                            <img width="600" height="600" src="assets/img/products/medium14.webp" class="img-fluid" alt="">
-                                            <img width="600" height="600" src="assets/img/products/medium15.webp" class="img-fluid" alt="">
-                                        </a>
-
-                                        <span class="discount-label discount-label--green">-20%</span>
-
-                                        <div class="hover-icons">
-                                            <ul>
-                                                <li><a data-bs-toggle="modal" data-bs-target="#quick-view-modal-container"
-                                                        href="javascript:void(0)"><i class="icon-eye"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-heart"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-sliders"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-
-                                    <div class="single-slider-product__content">
-                                        <div class="product-availability mb-15">
-                                            <div class="product-availability__text">
-                                                <div class="sold">Sold:1400</div>
-                                                <div class="remaining">Available:230</div>
-                                            </div>
-                                            <div class="progress">
-                                                <div class="progress-bar bg-warning" role="progressbar"
-                                                    style="width: 75%" aria-valuenow="75" aria-valuemin="0"
-                                                    aria-valuemax="100"></div>
-                                            </div>
-                                        </div>
-                                        <p class="product-title"><a href="single-product.html">Cillum dolore garden
-                                                tools</a></p>
-                                        <div class="rating">
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star"></i>
-                                        </div>
-                                        <p class="product-price"><span class="discounted-price">$30.00</span> <span
-                                                class="main-price discounted">$50.00</span></p>
-
-                                        <span class="cart-icon"><a href="javascript:void(0)"><i
-                                                    class="icon-shopping-cart"></i></a></span>
-                                    </div>
-                                </div>
-
-                            </div>
-
-                            <!--=======  End of single slider product  =======-->
-
-                            <!--=======  single slider product  =======-->
-
-                            <div class="single-slider-product-wrapper">
-                                <div class="single-slider-product">
-                                    <div class="single-slider-product__image">
-                                        <a href="single-product.html">
-                                            <img width="600" height="600" src="assets/img/products/medium16.webp" class="img-fluid" alt="">
-                                            <img width="600" height="600" src="assets/img/products/medium17.webp" class="img-fluid" alt="">
-                                        </a>
-
-                                        <span class="discount-label discount-label--green">-20%</span>
-
-                                        <div class="hover-icons">
-                                            <ul>
-                                                <li><a data-bs-toggle="modal" data-bs-target="#quick-view-modal-container"
-                                                        href="javascript:void(0)"><i class="icon-eye"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-heart"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-sliders"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-
-                                    <div class="single-slider-product__content">
-                                        <div class="product-availability mb-15">
-                                            <div class="product-availability__text">
-                                                <div class="sold">Sold:1400</div>
-                                                <div class="remaining">Available:230</div>
-                                            </div>
-                                            <div class="progress">
-                                                <div class="progress-bar bg-warning" role="progressbar"
-                                                    style="width: 75%" aria-valuenow="75" aria-valuemin="0"
-                                                    aria-valuemax="100"></div>
-                                            </div>
-                                        </div>
-
-                                        <p class="product-title"><a href="single-product.html">Lorem ipsum garden
-                                                tools</a></p>
-                                        <div class="rating">
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star"></i>
-                                        </div>
-                                        <p class="product-price"><span class="discounted-price">$50.00</span> <span
-                                                class="main-price discounted">$120.00</span></p>
-
-                                        <span class="cart-icon"><a href="javascript:void(0)"><i
-                                                    class="icon-shopping-cart"></i></a></span>
-                                    </div>
-                                </div>
-
-                            </div>
-
-                            <!--=======  End of single slider product  =======-->
-
-                            <!--=======  single slider product  =======-->
 
                             <div class="single-slider-product-wrapper">
                                 <div class="single-slider-product">
@@ -617,31 +423,9 @@ include "header.php";
                                         <a href="single-product.html">
                                             <img width="600" height="600" src="assets/img/products/medium10.webp" class="img-fluid" alt="">
                                         </a>
-
                                         <span class="discount-label discount-label--green">-10%</span>
-
-                                        <div class="hover-icons">
-                                            <ul>
-                                                <li><a data-bs-toggle="modal" data-bs-target="#quick-view-modal-container"
-                                                        href="javascript:void(0)"><i class="icon-eye"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-heart"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-sliders"></i></a></li>
-                                            </ul>
-                                        </div>
                                     </div>
-
                                     <div class="single-slider-product__content">
-                                        <div class="product-availability mb-15">
-                                            <div class="product-availability__text">
-                                                <div class="sold">Sold:1400</div>
-                                                <div class="remaining">Available:230</div>
-                                            </div>
-                                            <div class="progress">
-                                                <div class="progress-bar bg-warning" role="progressbar"
-                                                    style="width: 75%" aria-valuenow="75" aria-valuemin="0"
-                                                    aria-valuemax="100"></div>
-                                            </div>
-                                        </div>
                                         <p class="product-title"><a href="single-product.html">Cillum dolore garden
                                                 tools</a></p>
                                         <div class="rating">
@@ -651,13 +435,95 @@ include "header.php";
                                             <i class="ion-android-star active"></i>
                                             <i class="ion-android-star"></i>
                                         </div>
-                                        <p class="product-price"><span class="discounted-price">$50.00</span> <span
-                                                class="main-price discounted">$120.00</span></p>
+                                        <p class="product-price"><span class="discounted-price">₹ 100.00</span> <span
+                                                class="main-price discounted">₹ 120.00</span></p>
 
                                         <span class="cart-icon"><a href="javascript:void(0)"><i
                                                     class="icon-shopping-cart"></i></a></span>
                                     </div>
                                 </div>
+                            </div>
+
+                            <div class="single-slider-product-wrapper">
+                                <div class="single-slider-product">
+                                    <div class="single-slider-product__image">
+                                        <a href="single-product.html">
+                                            <img width="600" height="600" src="assets/img/products/medium10.webp" class="img-fluid" alt="">
+                                        </a>
+                                        <span class="discount-label discount-label--green">-10%</span>
+                                    </div>
+                                    <div class="single-slider-product__content">
+                                        <p class="product-title"><a href="single-product.html">Cillum dolore garden
+                                                tools</a></p>
+                                        <div class="rating">
+                                            <i class="ion-android-star active"></i>
+                                            <i class="ion-android-star active"></i>
+                                            <i class="ion-android-star active"></i>
+                                            <i class="ion-android-star active"></i>
+                                            <i class="ion-android-star"></i>
+                                        </div>
+                                        <p class="product-price"><span class="discounted-price">₹ 100.00</span> <span
+                                                class="main-price discounted">₹ 120.00</span></p>
+
+                                        <span class="cart-icon"><a href="javascript:void(0)"><i
+                                                    class="icon-shopping-cart"></i></a></span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="single-slider-product-wrapper">
+                                <div class="single-slider-product">
+                                    <div class="single-slider-product__image">
+                                        <a href="single-product.html">
+                                            <img width="600" height="600" src="assets/img/products/medium10.webp" class="img-fluid" alt="">
+                                        </a>
+                                        <span class="discount-label discount-label--green">-10%</span>
+                                    </div>
+                                    <div class="single-slider-product__content">
+                                        <p class="product-title"><a href="single-product.html">Cillum dolore garden
+                                                tools</a></p>
+                                        <div class="rating">
+                                            <i class="ion-android-star active"></i>
+                                            <i class="ion-android-star active"></i>
+                                            <i class="ion-android-star active"></i>
+                                            <i class="ion-android-star active"></i>
+                                            <i class="ion-android-star"></i>
+                                        </div>
+                                        <p class="product-price"><span class="discounted-price">₹ 100.00</span> <span
+                                                class="main-price discounted">₹ 120.00</span></p>
+
+                                        <span class="cart-icon"><a href="javascript:void(0)"><i
+                                                    class="icon-shopping-cart"></i></a></span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="single-slider-product-wrapper">
+                                <div class="single-slider-product">
+                                    <div class="single-slider-product__image">
+                                        <a href="single-product.html">
+                                            <img width="600" height="600" src="assets/img/products/medium10.webp" class="img-fluid" alt="">
+                                        </a>
+                                        <span class="discount-label discount-label--green">-10%</span>
+                                    </div>
+                                    <div class="single-slider-product__content">
+                                        <p class="product-title"><a href="single-product.html">Cillum dolore garden
+                                                tools</a></p>
+                                        <div class="rating">
+                                            <i class="ion-android-star active"></i>
+                                            <i class="ion-android-star active"></i>
+                                            <i class="ion-android-star active"></i>
+                                            <i class="ion-android-star active"></i>
+                                            <i class="ion-android-star"></i>
+                                        </div>
+                                        <p class="product-price"><span class="discounted-price">₹ 100.00</span> <span
+                                                class="main-price discounted">₹ 120.00</span></p>
+
+                                        <span class="cart-icon"><a href="javascript:void(0)"><i
+                                                    class="icon-shopping-cart"></i></a></span>
+                                    </div>
+                                </div>
+                            </div>
 
                             </div>
 
@@ -768,21 +634,9 @@ include "header.php";
                                     <div class="single-slider-product__image">
                                         <a href="single-product.html">
                                             <img width="600" height="600" src="assets/img/products/medium10.webp" class="img-fluid" alt="">
-                                            <img width="600" height="600" src="assets/img/products/medium11.webp" class="img-fluid" alt="">
                                         </a>
-
                                         <span class="discount-label discount-label--green">-10%</span>
-
-                                        <div class="hover-icons">
-                                            <ul>
-                                                <li><a data-bs-toggle="modal" data-bs-target="#quick-view-modal-container"
-                                                        href="javascript:void(0)"><i class="icon-eye"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-heart"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-sliders"></i></a></li>
-                                            </ul>
-                                        </div>
                                     </div>
-
                                     <div class="single-slider-product__content">
                                         <p class="product-title"><a href="single-product.html">Cillum dolore garden
                                                 tools</a></p>
@@ -793,151 +647,16 @@ include "header.php";
                                             <i class="ion-android-star active"></i>
                                             <i class="ion-android-star"></i>
                                         </div>
-                                        <p class="product-price"><span class="discounted-price">$100.00</span> <span
-                                                class="main-price discounted">$120.00</span></p>
+                                        <p class="product-price"><span class="discounted-price">₹ 100.00</span> <span
+                                                class="main-price discounted">₹ 120.00</span></p>
 
                                         <span class="cart-icon"><a href="javascript:void(0)"><i
                                                     class="icon-shopping-cart"></i></a></span>
                                     </div>
                                 </div>
-
                             </div>
 
                             <!--=======  End of single slider product  =======-->
-
-                            <!--=======  single slider product  =======-->
-
-                            <div class="single-slider-product-wrapper">
-                                <div class="single-slider-product">
-                                    <div class="single-slider-product__image">
-                                        <a href="single-product.html">
-                                            <img width="600" height="600" src="assets/img/products/medium12.webp" class="img-fluid" alt="">
-                                            <img width="600" height="600" src="assets/img/products/medium13.webp" class="img-fluid" alt="">
-                                        </a>
-
-                                        <span class="discount-label discount-label--green">-15%</span>
-
-                                        <div class="hover-icons">
-                                            <ul>
-                                                <li><a data-bs-toggle="modal" data-bs-target="#quick-view-modal-container"
-                                                        href="javascript:void(0)"><i class="icon-eye"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-heart"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-sliders"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-
-                                    <div class="single-slider-product__content">
-                                        <p class="product-title"><a href="single-product.html">Lorem ipsum garden
-                                                tools</a></p>
-                                        <div class="rating">
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star"></i>
-                                        </div>
-                                        <p class="product-price"><span class="discounted-price">$50.00</span> <span
-                                                class="main-price discounted">$70.00</span></p>
-
-                                        <span class="cart-icon"><a href="javascript:void(0)"><i
-                                                    class="icon-shopping-cart"></i></a></span>
-                                    </div>
-                                </div>
-
-                            </div>
-
-                            <!--=======  End of single slider product  =======-->
-
-                            <!--=======  single slider product  =======-->
-
-                            <div class="single-slider-product-wrapper">
-                                <div class="single-slider-product">
-                                    <div class="single-slider-product__image">
-                                        <a href="single-product.html">
-                                            <img width="600" height="600" src="assets/img/products/medium14.webp" class="img-fluid" alt="">
-                                            <img width="600" height="600" src="assets/img/products/medium15.webp" class="img-fluid" alt="">
-                                        </a>
-
-                                        <span class="discount-label discount-label--green">-20%</span>
-
-                                        <div class="hover-icons">
-                                            <ul>
-                                                <li><a data-bs-toggle="modal" data-bs-target="#quick-view-modal-container"
-                                                        href="javascript:void(0)"><i class="icon-eye"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-heart"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-sliders"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-
-                                    <div class="single-slider-product__content">
-                                        <p class="product-title"><a href="single-product.html">Cillum dolore garden
-                                                tools</a></p>
-                                        <div class="rating">
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star"></i>
-                                        </div>
-                                        <p class="product-price"><span class="discounted-price">$30.00</span> <span
-                                                class="main-price discounted">$50.00</span></p>
-
-                                        <span class="cart-icon"><a href="javascript:void(0)"><i
-                                                    class="icon-shopping-cart"></i></a></span>
-                                    </div>
-                                </div>
-
-                            </div>
-
-                            <!--=======  End of single slider product  =======-->
-
-                            <!--=======  single slider product  =======-->
-
-                            <div class="single-slider-product-wrapper">
-                                <div class="single-slider-product">
-                                    <div class="single-slider-product__image">
-                                        <a href="single-product.html">
-                                            <img width="600" height="600" src="assets/img/products/medium16.webp" class="img-fluid" alt="">
-                                            <img width="600" height="600" src="assets/img/products/medium17.webp" class="img-fluid" alt="">
-                                        </a>
-
-                                        <span class="discount-label discount-label--green">-20%</span>
-
-                                        <div class="hover-icons">
-                                            <ul>
-                                                <li><a data-bs-toggle="modal" data-bs-target="#quick-view-modal-container"
-                                                        href="javascript:void(0)"><i class="icon-eye"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-heart"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-sliders"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-
-                                    <div class="single-slider-product__content">
-                                        <p class="product-title"><a href="single-product.html">Lorem ipsum garden
-                                                tools</a></p>
-                                        <div class="rating">
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star"></i>
-                                        </div>
-                                        <p class="product-price"><span class="discounted-price">$50.00</span> <span
-                                                class="main-price discounted">$120.00</span></p>
-
-                                        <span class="cart-icon"><a href="javascript:void(0)"><i
-                                                    class="icon-shopping-cart"></i></a></span>
-                                    </div>
-                                </div>
-
-                            </div>
-
-                            <!--=======  End of single slider product  =======-->
-
-                            <!--=======  single slider product  =======-->
 
                             <div class="single-slider-product-wrapper">
                                 <div class="single-slider-product">
@@ -945,19 +664,8 @@ include "header.php";
                                         <a href="single-product.html">
                                             <img width="600" height="600" src="assets/img/products/medium10.webp" class="img-fluid" alt="">
                                         </a>
-
                                         <span class="discount-label discount-label--green">-10%</span>
-
-                                        <div class="hover-icons">
-                                            <ul>
-                                                <li><a data-bs-toggle="modal" data-bs-target="#quick-view-modal-container"
-                                                        href="javascript:void(0)"><i class="icon-eye"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-heart"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-sliders"></i></a></li>
-                                            </ul>
-                                        </div>
                                     </div>
-
                                     <div class="single-slider-product__content">
                                         <p class="product-title"><a href="single-product.html">Cillum dolore garden
                                                 tools</a></p>
@@ -968,215 +676,23 @@ include "header.php";
                                             <i class="ion-android-star active"></i>
                                             <i class="ion-android-star"></i>
                                         </div>
-                                        <p class="product-price"><span class="discounted-price">$50.00</span> <span
-                                                class="main-price discounted">$120.00</span></p>
+                                        <p class="product-price"><span class="discounted-price">₹ 100.00</span> <span
+                                                class="main-price discounted">₹ 120.00</span></p>
 
                                         <span class="cart-icon"><a href="javascript:void(0)"><i
                                                     class="icon-shopping-cart"></i></a></span>
                                     </div>
                                 </div>
-
                             </div>
-
-                            <!--=======  End of single slider product  =======-->
-
-                            <!--=======  single slider product  =======-->
-
-                            <div class="single-slider-product-wrapper">
-                                <div class="single-slider-product">
-                                    <div class="single-slider-product__image">
-                                        <a href="single-product.html">
-                                            <img width="600" height="600" src="assets/img/products/medium12.webp" class="img-fluid" alt="">
-                                            <img width="600" height="600" src="assets/img/products/medium12.webp" class="img-fluid" alt="">
-                                        </a>
-
-                                        <span class="discount-label discount-label--green">-10%</span>
-
-                                        <div class="hover-icons">
-                                            <ul>
-                                                <li><a data-bs-toggle="modal" data-bs-target="#quick-view-modal-container"
-                                                        href="javascript:void(0)"><i class="icon-eye"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-heart"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-sliders"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-
-                                    <div class="single-slider-product__content">
-                                        <p class="product-title"><a href="single-product.html">Cillum dolore garden
-                                                tools</a></p>
-                                        <div class="rating">
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star"></i>
-                                        </div>
-                                        <p class="product-price"><span class="discounted-price">$100.00</span> <span
-                                                class="main-price discounted">$120.00</span></p>
-
-                                        <span class="cart-icon"><a href="javascript:void(0)"><i
-                                                    class="icon-shopping-cart"></i></a></span>
-                                    </div>
-                                </div>
-
-                            </div>
-
-                            <!--=======  End of single slider product  =======-->
-
-                            <!--=======  single slider product  =======-->
-
-                            <div class="single-slider-product-wrapper">
-                                <div class="single-slider-product">
-                                    <div class="single-slider-product__image">
-                                        <a href="single-product.html">
-                                            <img width="600" height="600" src="assets/img/products/medium14.webp" class="img-fluid" alt="">
-                                            <img width="600" height="600" src="assets/img/products/medium15.webp" class="img-fluid" alt="">
-                                        </a>
-
-                                        <span class="discount-label discount-label--green">-15%</span>
-
-                                        <div class="hover-icons">
-                                            <ul>
-                                                <li><a data-bs-toggle="modal" data-bs-target="#quick-view-modal-container"
-                                                        href="javascript:void(0)"><i class="icon-eye"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-heart"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-sliders"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-
-                                    <div class="single-slider-product__content">
-                                        <p class="product-title"><a href="single-product.html">Lorem ipsum garden
-                                                tools</a></p>
-                                        <div class="rating">
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star"></i>
-                                        </div>
-                                        <p class="product-price"><span class="discounted-price">$50.00</span> <span
-                                                class="main-price discounted">$70.00</span></p>
-
-                                        <span class="cart-icon"><a href="javascript:void(0)"><i
-                                                    class="icon-shopping-cart"></i></a></span>
-                                    </div>
-                                </div>
-
-                            </div>
-
-                            <!--=======  End of single slider product  =======-->
-
-                            <!--=======  single slider product  =======-->
-
-                            <div class="single-slider-product-wrapper">
-                                <div class="single-slider-product">
-                                    <div class="single-slider-product__image">
-                                        <a href="single-product.html">
-                                            <img width="600" height="600" src="assets/img/products/medium16.webp" class="img-fluid" alt="">
-                                            <img width="600" height="600" src="assets/img/products/medium17.webp" class="img-fluid" alt="">
-                                        </a>
-
-                                        <span class="discount-label discount-label--green">-20%</span>
-
-                                        <div class="hover-icons">
-                                            <ul>
-                                                <li><a data-bs-toggle="modal" data-bs-target="#quick-view-modal-container"
-                                                        href="javascript:void(0)"><i class="icon-eye"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-heart"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-sliders"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-
-                                    <div class="single-slider-product__content">
-                                        <p class="product-title"><a href="single-product.html">Cillum dolore garden
-                                                tools</a></p>
-                                        <div class="rating">
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star"></i>
-                                        </div>
-                                        <p class="product-price"><span class="discounted-price">$30.00</span> <span
-                                                class="main-price discounted">$50.00</span></p>
-
-                                        <span class="cart-icon"><a href="javascript:void(0)"><i
-                                                    class="icon-shopping-cart"></i></a></span>
-                                    </div>
-                                </div>
-
-                            </div>
-
-                            <!--=======  End of single slider product  =======-->
-
-                            <!--=======  single slider product  =======-->
 
                             <div class="single-slider-product-wrapper">
                                 <div class="single-slider-product">
                                     <div class="single-slider-product__image">
                                         <a href="single-product.html">
                                             <img width="600" height="600" src="assets/img/products/medium10.webp" class="img-fluid" alt="">
-                                            <img width="600" height="600" src="assets/img/products/medium11.webp" class="img-fluid" alt="">
                                         </a>
-
-                                        <span class="discount-label discount-label--green">-20%</span>
-
-                                        <div class="hover-icons">
-                                            <ul>
-                                                <li><a data-bs-toggle="modal" data-bs-target="#quick-view-modal-container"
-                                                        href="javascript:void(0)"><i class="icon-eye"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-heart"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-sliders"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-
-                                    <div class="single-slider-product__content">
-                                        <p class="product-title"><a href="single-product.html">Lorem ipsum garden
-                                                tools</a></p>
-                                        <div class="rating">
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star"></i>
-                                        </div>
-                                        <p class="product-price"><span class="discounted-price">$50.00</span> <span
-                                                class="main-price discounted">$120.00</span></p>
-
-                                        <span class="cart-icon"><a href="javascript:void(0)"><i
-                                                    class="icon-shopping-cart"></i></a></span>
-                                    </div>
-                                </div>
-
-                            </div>
-
-                            <!--=======  End of single slider product  =======-->
-
-                            <!--=======  single slider product  =======-->
-
-                            <div class="single-slider-product-wrapper">
-                                <div class="single-slider-product">
-                                    <div class="single-slider-product__image">
-                                        <a href="single-product.html">
-                                            <img width="600" height="600" src="assets/img/products/medium12.webp" class="img-fluid" alt="">
-                                        </a>
-
                                         <span class="discount-label discount-label--green">-10%</span>
-
-                                        <div class="hover-icons">
-                                            <ul>
-                                                <li><a data-bs-toggle="modal" data-bs-target="#quick-view-modal-container"
-                                                        href="javascript:void(0)"><i class="icon-eye"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-heart"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-sliders"></i></a></li>
-                                            </ul>
-                                        </div>
                                     </div>
-
                                     <div class="single-slider-product__content">
                                         <p class="product-title"><a href="single-product.html">Cillum dolore garden
                                                 tools</a></p>
@@ -1187,215 +703,23 @@ include "header.php";
                                             <i class="ion-android-star active"></i>
                                             <i class="ion-android-star"></i>
                                         </div>
-                                        <p class="product-price"><span class="discounted-price">$50.00</span> <span
-                                                class="main-price discounted">$120.00</span></p>
+                                        <p class="product-price"><span class="discounted-price">₹ 100.00</span> <span
+                                                class="main-price discounted">₹ 120.00</span></p>
 
                                         <span class="cart-icon"><a href="javascript:void(0)"><i
                                                     class="icon-shopping-cart"></i></a></span>
                                     </div>
                                 </div>
-
                             </div>
-
-                            <!--=======  End of single slider product  =======-->
-
-                            <!--=======  single slider product  =======-->
-
-                            <div class="single-slider-product-wrapper">
-                                <div class="single-slider-product">
-                                    <div class="single-slider-product__image">
-                                        <a href="single-product.html">
-                                            <img width="600" height="600" src="assets/img/products/medium13.webp" class="img-fluid" alt="">
-                                            <img width="600" height="600" src="assets/img/products/medium14.webp" class="img-fluid" alt="">
-                                        </a>
-
-                                        <span class="discount-label discount-label--green">-10%</span>
-
-                                        <div class="hover-icons">
-                                            <ul>
-                                                <li><a data-bs-toggle="modal" data-bs-target="#quick-view-modal-container"
-                                                        href="javascript:void(0)"><i class="icon-eye"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-heart"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-sliders"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-
-                                    <div class="single-slider-product__content">
-                                        <p class="product-title"><a href="single-product.html">Cillum dolore garden
-                                                tools</a></p>
-                                        <div class="rating">
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star"></i>
-                                        </div>
-                                        <p class="product-price"><span class="discounted-price">$100.00</span> <span
-                                                class="main-price discounted">$120.00</span></p>
-
-                                        <span class="cart-icon"><a href="javascript:void(0)"><i
-                                                    class="icon-shopping-cart"></i></a></span>
-                                    </div>
-                                </div>
-
-                            </div>
-
-                            <!--=======  End of single slider product  =======-->
-
-                            <!--=======  single slider product  =======-->
-
-                            <div class="single-slider-product-wrapper">
-                                <div class="single-slider-product">
-                                    <div class="single-slider-product__image">
-                                        <a href="single-product.html">
-                                            <img width="600" height="600" src="assets/img/products/medium15.webp" class="img-fluid" alt="">
-                                            <img width="600" height="600" src="assets/img/products/medium16.webp" class="img-fluid" alt="">
-                                        </a>
-
-                                        <span class="discount-label discount-label--green">-15%</span>
-
-                                        <div class="hover-icons">
-                                            <ul>
-                                                <li><a data-bs-toggle="modal" data-bs-target="#quick-view-modal-container"
-                                                        href="javascript:void(0)"><i class="icon-eye"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-heart"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-sliders"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-
-                                    <div class="single-slider-product__content">
-                                        <p class="product-title"><a href="single-product.html">Lorem ipsum garden
-                                                tools</a></p>
-                                        <div class="rating">
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star"></i>
-                                        </div>
-                                        <p class="product-price"><span class="discounted-price">$50.00</span> <span
-                                                class="main-price discounted">$70.00</span></p>
-
-                                        <span class="cart-icon"><a href="javascript:void(0)"><i
-                                                    class="icon-shopping-cart"></i></a></span>
-                                    </div>
-                                </div>
-
-                            </div>
-
-                            <!--=======  End of single slider product  =======-->
-
-                            <!--=======  single slider product  =======-->
 
                             <div class="single-slider-product-wrapper">
                                 <div class="single-slider-product">
                                     <div class="single-slider-product__image">
                                         <a href="single-product.html">
                                             <img width="600" height="600" src="assets/img/products/medium10.webp" class="img-fluid" alt="">
-                                            <img width="600" height="600" src="assets/img/products/medium17.webp" class="img-fluid" alt="">
                                         </a>
-
-                                        <span class="discount-label discount-label--green">-20%</span>
-
-                                        <div class="hover-icons">
-                                            <ul>
-                                                <li><a data-bs-toggle="modal" data-bs-target="#quick-view-modal-container"
-                                                        href="javascript:void(0)"><i class="icon-eye"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-heart"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-sliders"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-
-                                    <div class="single-slider-product__content">
-                                        <p class="product-title"><a href="single-product.html">Cillum dolore garden
-                                                tools</a></p>
-                                        <div class="rating">
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star"></i>
-                                        </div>
-                                        <p class="product-price"><span class="discounted-price">$30.00</span> <span
-                                                class="main-price discounted">$50.00</span></p>
-
-                                        <span class="cart-icon"><a href="javascript:void(0)"><i
-                                                    class="icon-shopping-cart"></i></a></span>
-                                    </div>
-                                </div>
-
-                            </div>
-
-                            <!--=======  End of single slider product  =======-->
-
-                            <!--=======  single slider product  =======-->
-
-                            <div class="single-slider-product-wrapper">
-                                <div class="single-slider-product">
-                                    <div class="single-slider-product__image">
-                                        <a href="single-product.html">
-                                            <img width="600" height="600" src="assets/img/products/medium11.webp" class="img-fluid" alt="">
-                                            <img width="600" height="600" src="assets/img/products/medium12.webp" class="img-fluid" alt="">
-                                        </a>
-
-                                        <span class="discount-label discount-label--green">-20%</span>
-
-                                        <div class="hover-icons">
-                                            <ul>
-                                                <li><a data-bs-toggle="modal" data-bs-target="#quick-view-modal-container"
-                                                        href="javascript:void(0)"><i class="icon-eye"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-heart"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-sliders"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-
-                                    <div class="single-slider-product__content">
-                                        <p class="product-title"><a href="single-product.html">Lorem ipsum garden
-                                                tools</a></p>
-                                        <div class="rating">
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star active"></i>
-                                            <i class="ion-android-star"></i>
-                                        </div>
-                                        <p class="product-price"><span class="discounted-price">$50.00</span> <span
-                                                class="main-price discounted">$120.00</span></p>
-
-                                        <span class="cart-icon"><a href="javascript:void(0)"><i
-                                                    class="icon-shopping-cart"></i></a></span>
-                                    </div>
-                                </div>
-
-                            </div>
-
-                            <!--=======  End of single slider product  =======-->
-
-                            <!--=======  single slider product  =======-->
-
-                            <div class="single-slider-product-wrapper">
-                                <div class="single-slider-product">
-                                    <div class="single-slider-product__image">
-                                        <a href="single-product.html">
-                                            <img width="600" height="600" src="assets/img/products/medium15.webp" class="img-fluid" alt="">
-                                        </a>
-
                                         <span class="discount-label discount-label--green">-10%</span>
-
-                                        <div class="hover-icons">
-                                            <ul>
-                                                <li><a data-bs-toggle="modal" data-bs-target="#quick-view-modal-container"
-                                                        href="javascript:void(0)"><i class="icon-eye"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-heart"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-sliders"></i></a></li>
-                                            </ul>
-                                        </div>
                                     </div>
-
                                     <div class="single-slider-product__content">
                                         <p class="product-title"><a href="single-product.html">Cillum dolore garden
                                                 tools</a></p>
@@ -1406,40 +730,23 @@ include "header.php";
                                             <i class="ion-android-star active"></i>
                                             <i class="ion-android-star"></i>
                                         </div>
-                                        <p class="product-price"><span class="discounted-price">$50.00</span> <span
-                                                class="main-price discounted">$120.00</span></p>
+                                        <p class="product-price"><span class="discounted-price">₹ 100.00</span> <span
+                                                class="main-price discounted">₹ 120.00</span></p>
 
                                         <span class="cart-icon"><a href="javascript:void(0)"><i
                                                     class="icon-shopping-cart"></i></a></span>
                                     </div>
                                 </div>
-
                             </div>
-
-                            <!--=======  End of single slider product  =======-->
-
-                            <!--=======  single slider product  =======-->
 
                             <div class="single-slider-product-wrapper">
                                 <div class="single-slider-product">
                                     <div class="single-slider-product__image">
                                         <a href="single-product.html">
                                             <img width="600" height="600" src="assets/img/products/medium10.webp" class="img-fluid" alt="">
-                                            <img width="600" height="600" src="assets/img/products/medium11.webp" class="img-fluid" alt="">
                                         </a>
-
                                         <span class="discount-label discount-label--green">-10%</span>
-
-                                        <div class="hover-icons">
-                                            <ul>
-                                                <li><a data-bs-toggle="modal" data-bs-target="#quick-view-modal-container"
-                                                        href="javascript:void(0)"><i class="icon-eye"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-heart"></i></a></li>
-                                                <li><a href="javascript:void(0)"><i class="icon-sliders"></i></a></li>
-                                            </ul>
-                                        </div>
                                     </div>
-
                                     <div class="single-slider-product__content">
                                         <p class="product-title"><a href="single-product.html">Cillum dolore garden
                                                 tools</a></p>
@@ -1450,19 +757,95 @@ include "header.php";
                                             <i class="ion-android-star active"></i>
                                             <i class="ion-android-star"></i>
                                         </div>
-                                        <p class="product-price"><span class="discounted-price">$50.00</span> <span
-                                                class="main-price discounted">$120.00</span></p>
+                                        <p class="product-price"><span class="discounted-price">₹ 100.00</span> <span
+                                                class="main-price discounted">₹ 120.00</span></p>
 
                                         <span class="cart-icon"><a href="javascript:void(0)"><i
                                                     class="icon-shopping-cart"></i></a></span>
                                     </div>
                                 </div>
-
                             </div>
 
-                            <!--=======  End of single slider product  =======-->
+                            <div class="single-slider-product-wrapper">
+                                <div class="single-slider-product">
+                                    <div class="single-slider-product__image">
+                                        <a href="single-product.html">
+                                            <img width="600" height="600" src="assets/img/products/medium10.webp" class="img-fluid" alt="">
+                                        </a>
+                                        <span class="discount-label discount-label--green">-10%</span>
+                                    </div>
+                                    <div class="single-slider-product__content">
+                                        <p class="product-title"><a href="single-product.html">Cillum dolore garden
+                                                tools</a></p>
+                                        <div class="rating">
+                                            <i class="ion-android-star active"></i>
+                                            <i class="ion-android-star active"></i>
+                                            <i class="ion-android-star active"></i>
+                                            <i class="ion-android-star active"></i>
+                                            <i class="ion-android-star"></i>
+                                        </div>
+                                        <p class="product-price"><span class="discounted-price">₹ 100.00</span> <span
+                                                class="main-price discounted">₹ 120.00</span></p>
 
+                                        <span class="cart-icon"><a href="javascript:void(0)"><i
+                                                    class="icon-shopping-cart"></i></a></span>
+                                    </div>
+                                </div>
+                            </div>
 
+                            <div class="single-slider-product-wrapper">
+                                <div class="single-slider-product">
+                                    <div class="single-slider-product__image">
+                                        <a href="single-product.html">
+                                            <img width="600" height="600" src="assets/img/products/medium10.webp" class="img-fluid" alt="">
+                                        </a>
+                                        <span class="discount-label discount-label--green">-10%</span>
+                                    </div>
+                                    <div class="single-slider-product__content">
+                                        <p class="product-title"><a href="single-product.html">Cillum dolore garden
+                                                tools</a></p>
+                                        <div class="rating">
+                                            <i class="ion-android-star active"></i>
+                                            <i class="ion-android-star active"></i>
+                                            <i class="ion-android-star active"></i>
+                                            <i class="ion-android-star active"></i>
+                                            <i class="ion-android-star"></i>
+                                        </div>
+                                        <p class="product-price"><span class="discounted-price">₹ 100.00</span> <span
+                                                class="main-price discounted">₹ 120.00</span></p>
+
+                                        <span class="cart-icon"><a href="javascript:void(0)"><i
+                                                    class="icon-shopping-cart"></i></a></span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="single-slider-product-wrapper">
+                                <div class="single-slider-product">
+                                    <div class="single-slider-product__image">
+                                        <a href="single-product.html">
+                                            <img width="600" height="600" src="assets/img/products/medium10.webp" class="img-fluid" alt="">
+                                        </a>
+                                        <span class="discount-label discount-label--green">-10%</span>
+                                    </div>
+                                    <div class="single-slider-product__content">
+                                        <p class="product-title"><a href="single-product.html">Cillum dolore garden
+                                                tools</a></p>
+                                        <div class="rating">
+                                            <i class="ion-android-star active"></i>
+                                            <i class="ion-android-star active"></i>
+                                            <i class="ion-android-star active"></i>
+                                            <i class="ion-android-star active"></i>
+                                            <i class="ion-android-star"></i>
+                                        </div>
+                                        <p class="product-price"><span class="discounted-price">₹ 100.00</span> <span
+                                                class="main-price discounted">₹ 120.00</span></p>
+
+                                        <span class="cart-icon"><a href="javascript:void(0)"><i
+                                                    class="icon-shopping-cart"></i></a></span>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
 
@@ -1473,151 +856,8 @@ include "header.php";
     </div>
 
     <!--====================  End of banner with double row slider  ====================-->
-    <!--====================  icon feature area ====================-->
-
     
-  
-
-    
-    
-    <!--====================  brand logo slider area ====================-->
-
-    <div class="brand-logo-slider-area mb-40">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-12">
-                    <!--=======  brand logo slider wrapper  =======-->
-
-                    <div class="brand-logo-slider-wrapper brand-logo-slider-wrapper--double-border">
-                        <div class="ht-slick-slider" data-slick-setting='{
-                            "slidesToShow": 5,
-                            "slidesToScroll": 1,
-                            "dots": false,
-                            "autoplay": false,
-                            "autoplaySpeed": 5000,
-                            "speed": 1000,
-                            "arrows": false,
-                            "prevArrow": {"buttonClass": "slick-prev", "iconClass": "ion-ios-arrow-left" },
-                            "nextArrow": {"buttonClass": "slick-next", "iconClass": "ion-ios-arrow-right" }
-                        }' data-slick-responsive='[
-                            {"breakpoint":1501, "settings": {"slidesToShow": 5} },
-                            {"breakpoint":1199, "settings": {"slidesToShow": 4} },
-                            {"breakpoint":991, "settings": {"slidesToShow": 3} },
-                            {"breakpoint":767, "settings": {"slidesToShow": 2, "arrows": false} },
-                            {"breakpoint":575, "settings": {"slidesToShow": 2, "arrows": false} },
-                            {"breakpoint":479, "settings": {"slidesToShow": 1, "arrows": false} }
-                        ]'>
-
-                            <!--=======  single brand logo  =======-->
-
-                            <div class="single-brand-logo">
-                                <a href="#">
-                                    <img width="164" height="38" src="assets/img/brands/brand1.webp" class="img-fluid" alt="">
-                                </a>
-                            </div>
-
-                            <!--=======  End of single brand logo  =======-->
-
-                            <!--=======  single brand logo  =======-->
-
-                            <div class="single-brand-logo">
-                                <a href="#">
-                                    <img width="164" height="38" src="assets/img/brands/brand2.webp" class="img-fluid" alt="">
-                                </a>
-                            </div>
-
-                            <!--=======  End of single brand logo  =======-->
-
-                            <!--=======  single brand logo  =======-->
-
-                            <div class="single-brand-logo">
-                                <a href="#">
-                                    <img width="164" height="38" src="assets/img/brands/brand3.webp" class="img-fluid" alt="">
-                                </a>
-                            </div>
-
-                            <!--=======  End of single brand logo  =======-->
-
-                            <!--=======  single brand logo  =======-->
-
-                            <div class="single-brand-logo">
-                                <a href="#">
-                                    <img width="164" height="38" src="assets/img/brands/brand4.webp" class="img-fluid" alt="">
-                                </a>
-                            </div>
-
-                            <!--=======  End of single brand logo  =======-->
-
-                            <!--=======  single brand logo  =======-->
-
-                            <div class="single-brand-logo">
-                                <a href="#">
-                                    <img width="164" height="38" src="assets/img/brands/brand5.webp" class="img-fluid" alt="">
-                                </a>
-                            </div>
-
-                            <!--=======  End of single brand logo  =======-->
-
-                            <!--=======  single brand logo  =======-->
-
-                            <div class="single-brand-logo">
-                                <a href="#">
-                                    <img width="164" height="38" src="assets/img/brands/brand1.webp" class="img-fluid" alt="">
-                                </a>
-                            </div>
-
-                            <!--=======  End of single brand logo  =======-->
-
-                        </div>
-                    </div>
-
-                    <!--=======  End of brand logo slider wrapper  =======-->
-
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!--====================  End of brand logo slider area  ====================-->
-    <!--====================  newsletter area ====================-->
-    <div class="newsletter-area mb-40">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <!--=======  newsletter wrapper  =======-->
-
-                    <div class="newsletter-wrapper newsletter-bg-1">
-                        <div class="newsletter-wrapper__text">
-                            <h5>Subscribe newsletter to get updated</h5>
-                            <p>We’ll never share your email address with a third-party.</p>
-                        </div>
-                        <div class="newsletter-wrapper__form">
-                            <form id="mc-form" class="mc-form">
-                                <input type="email" placeholder="Enter your email address here ...">
-                                <button type="submit">Subscribe</button>
-                            </form>
-
-                            <!-- mailchimp-alerts Start -->
-
-                            <div class="mailchimp-alerts mt-5 mb-5">
-                                <div class="mailchimp-submitting"></div><!-- mailchimp-submitting end -->
-                                <div class="mailchimp-success"></div><!-- mailchimp-success end -->
-                                <div class="mailchimp-error"></div><!-- mailchimp-error end -->
-                            </div><!-- mailchimp-alerts end -->
-
-                        </div>
-                    </div>
-
-                    <!--=======  End of newsletter wrapper  =======-->
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!--====================  End of newsletter area  ====================-->
-    
-
-
+   
     <!--=============================================
 	=            Quick view modal         =
 	=============================================-->
