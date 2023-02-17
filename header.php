@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html class="no-js" lang="zxx">
-
-
-<!-- Mirrored from htmldemo.net/alula/alula/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 04 Feb 2023 07:09:37 GMT -->
-
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -152,7 +148,7 @@
 
                                         <div class="text">
                                             <span>Customer Support</span>
-                                            <p>(08) 12 345 789</p>
+                                            <p>(+91) 9880006548</p>
                                         </div>
                                     </div>
 
@@ -184,12 +180,7 @@
                                     <li class="active"><a href="/">Home</a></li> 
                                     <li><a href="category.php">Category</a></li>
                                     <li><a href="contact.php">Contact Us</a></li>
-                                    <li><a href="category.php" class="menu-item-has-children">My Account</a>
-                                    <ul class="sub-menu">
-                                         <li><a href="login-register.html">Register</a></li>
-                                         <li><a href="login-register.html">Login</a></li>
-                                    </ul>
-                                </li>
+
                                 </ul>
                             </nav>
 

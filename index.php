@@ -715,7 +715,7 @@ include "header.php";
                             <div class="single-slider-product-wrapper">
                                 <div class="single-slider-product">
                                     <div class="single-slider-product__image">
-                                        <a href="single-product.html">
+                                        <a href="single-product.php">
                                             <img width="600" height="600" src="assets/img/products/medium10.webp" class="img-fluid" alt="">
                                         </a>
                                         <span class="discount-label discount-label--green">-10%</span>
@@ -775,7 +775,7 @@ include "header.php";
                                         <span class="discount-label discount-label--green">-10%</span>
                                     </div>
                                     <div class="single-slider-product__content">
-                                        <p class="product-title"><a href="single-product.html">Cillum dolore garden
+                                        <p class="product-title"><a href="single-product.php">Cillum dolore garden
                                                 tools</a></p>
                                         <div class="rating">
                                             <i class="ion-android-star active"></i>
@@ -796,13 +796,13 @@ include "header.php";
                             <div class="single-slider-product-wrapper">
                                 <div class="single-slider-product">
                                     <div class="single-slider-product__image">
-                                        <a href="single-product.html">
+                                        <a href="single-product.php">
                                             <img width="600" height="600" src="assets/img/products/medium10.webp" class="img-fluid" alt="">
                                         </a>
                                         <span class="discount-label discount-label--green">-10%</span>
                                     </div>
                                     <div class="single-slider-product__content">
-                                        <p class="product-title"><a href="single-product.html">Cillum dolore garden
+                                        <p class="product-title"><a href="single-product.php">Cillum dolore garden
                                                 tools</a></p>
                                         <div class="rating">
                                             <i class="ion-android-star active"></i>
@@ -823,13 +823,13 @@ include "header.php";
                             <div class="single-slider-product-wrapper">
                                 <div class="single-slider-product">
                                     <div class="single-slider-product__image">
-                                        <a href="single-product.html">
+                                        <a href="single-product.php">
                                             <img width="600" height="600" src="assets/img/products/medium10.webp" class="img-fluid" alt="">
                                         </a>
                                         <span class="discount-label discount-label--green">-10%</span>
                                     </div>
                                     <div class="single-slider-product__content">
-                                        <p class="product-title"><a href="single-product.html">Cillum dolore garden
+                                        <p class="product-title"><a href="single-product.php">Cillum dolore garden
                                                 tools</a></p>
                                         <div class="rating">
                                             <i class="ion-android-star active"></i>
