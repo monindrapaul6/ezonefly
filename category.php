@@ -1,91 +1,127 @@
-<!DOCTYPE html>
-<html class="no-js" lang="zxx">
-
 <?php
 include "header.php";
 ?>
-<div class="row shop-product-wrap grid four-column mb-10">
-    <div class="col-12 col-lg-3 col-md-6 col-sm-6 mb-20">
-        <div class="single-slider-product grid-view-product">
-            <div class="single-slider-product-wrapper">
-                <div class="single-slider-product">
-                    <div class="single-slider-product__image">
-                        <a href="single-product.html">
-                            <img width="600" height="600" src="assets/img/products/medium10.webp" class="img-fluid"
-                                alt="">
-                        </a>
-                        <span class="discount-label discount-label--green">-10%</span>
-                    </div>
-                    <div class="single-slider-product__content">
-                        <p class="product-title"><a href="single-product.html">Cillum dolore garden
-                                tools</a></p>
-                        <div class="rating">
-                            <i class="ion-android-star active"></i>
-                            <i class="ion-android-star active"></i>
-                            <i class="ion-android-star active"></i>
-                            <i class="ion-android-star active"></i>
-                            <i class="ion-android-star"></i>
-                        </div>
-                        <p class="product-price"><span class="discounted-price">₹ 100.00</span> <span
-                                class="main-price discounted">₹ 120.00</span></p>
 
-                        <span class="cart-icon"><a href="javascript:void(0)"><i
-                                    class="icon-shopping-cart"></i></a></span>
+<!--==================== page content ====================-->
+
+<div class="category-area mb-40 mt-25">
+    <div class="container">
+        <!--=======  section title  =======-->
+
+        <div class="section-title mb-20 ">
+            <h2>Featured Categories</h2>
+        </div>
+
+        <!--=======  End of section title  =======-->
+
+        <div class="row">
+            <div class="col-lg-12">
+                <!--=======  category slider wrapper  =======-->
+
+                <div class="category-slider-wrapper-one">
+                    <div class="ht-slick-slider" data-slick-setting='{
+                                "slidesToShow": 4,
+                                "slidesToScroll": 1,
+                                "dots": false,
+                                "autoplay": false,
+                                "autoplaySpeed": 5000,
+                                "speed": 1000
+                            }' data-slick-responsive='[
+                                {"breakpoint":1501, "settings": {"slidesToShow": 4} },
+                                {"breakpoint":1199, "settings": {"slidesToShow": 4} },
+                                {"breakpoint":991, "settings": {"slidesToShow": 3} },
+                                {"breakpoint":767, "settings": {"slidesToShow": 2, "arrows": false} },
+                                {"breakpoint":575, "settings": {"slidesToShow": 2, "arrows": false} },
+                                {"breakpoint":479, "settings": {"slidesToShow": 1, "arrows": false} }
+                            ]'>
+
+                        <!--=======  single category item  =======-->
+
+                        <div class="single-category-item">
+                            <div class="single-category-item__image">
+                                <a href="shop-left-sidebar.html">
+                                    <img width="262" height="340" src="assets/img/category/cat1.webp" class="img-fluid"
+                                        alt="">
+                                </a>
+                                <div class="single-category-item__image__content">
+                                    <h5 class="category-title"><a href="shop-left-sidebar.html">BONSAI</a></h5>
+                                    <p class="quntity">45 products</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="single-category-item">
+                            <div class="single-category-item__image">
+                                <a href="shop-left-sidebar.html">
+                                    <img width="262" height="340" src="assets/img/category/cat1.webp" class="img-fluid"
+                                        alt="">
+                                </a>
+                                <div class="single-category-item__image__content">
+                                    <h5 class="category-title"><a href="shop-left-sidebar.html">BONSAI</a></h5>
+                                    <p class="quntity">45 products</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="single-category-item">
+                            <div class="single-category-item__image">
+                                <a href="shop-left-sidebar.html">
+                                    <img width="262" height="340" src="assets/img/category/cat1.webp" class="img-fluid"
+                                        alt="">
+                                </a>
+                                <div class="single-category-item__image__content">
+                                    <h5 class="category-title"><a href="shop-left-sidebar.html">BONSAI</a></h5>
+                                    <p class="quntity">45 products</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="single-category-item">
+                            <div class="single-category-item__image">
+                                <a href="shop-left-sidebar.html">
+                                    <img width="262" height="340" src="assets/img/category/cat1.webp" class="img-fluid"
+                                        alt="">
+                                </a>
+                                <div class="single-category-item__image__content">
+                                    <h5 class="category-title"><a href="shop-left-sidebar.html">BONSAI</a></h5>
+                                    <p class="quntity">45 products</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="single-category-item">
+                            <div class="single-category-item__image">
+                                <a href="shop-left-sidebar.html">
+                                    <img width="262" height="340" src="assets/img/category/cat1.webp" class="img-fluid"
+                                        alt="">
+                                </a>
+                                <div class="single-category-item__image__content">
+                                    <h5 class="category-title"><a href="shop-left-sidebar.html">BONSAI</a></h5>
+                                    <p class="quntity">45 products</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="single-category-item">
+                            <div class="single-category-item__image">
+                                <a href="shop-left-sidebar.html">
+                                    <img width="262" height="340" src="assets/img/category/cat1.webp" class="img-fluid"
+                                        alt="">
+                                </a>
+                                <div class="single-category-item__image__content">
+                                    <h5 class="category-title"><a href="shop-left-sidebar.html">BONSAI</a></h5>
+                                    <p class="quntity">45 products</p>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
-
-            <div class="single-slider-product-wrapper">
-                <div class="single-slider-product">
-                    <div class="single-slider-product__image">
-                        <a href="single-product.html">
-                            <img width="600" height="600" src="assets/img/products/medium10.webp" class="img-fluid"
-                                alt="">
-                        </a>
-                        <span class="discount-label discount-label--green">-10%</span>
-                    </div>
-                    <div class="single-slider-product__content">
-                        <p class="product-title"><a href="single-product.html">Cillum dolore garden
-                                tools</a></p>
-                        <div class="rating">
-                            <i class="ion-android-star active"></i>
-                            <i class="ion-android-star active"></i>
-                            <i class="ion-android-star active"></i>
-                            <i class="ion-android-star active"></i>
-                            <i class="ion-android-star"></i>
-                        </div>
-                        <p class="product-price"><span class="discounted-price">₹ 100.00</span> <span
-                                class="main-price discounted">₹ 120.00</span></p>
-
-                        <span class="cart-icon"><a href="javascript:void(0)"><i
-                                    class="icon-shopping-cart"></i></a></span>
-                    </div>
-                </div>
-            </div>
-            
         </div>
     </div>
 </div>
-</div>
 
+<!--====================  End of page content  ====================-->
 
+<!--====================  footer area ====================-->
 
 <?php
-        include "footer.php";
- ?>
-
-
-<!-- Vendor JS -->
-<script src="assets/js/vendors.js"></script>
-
-<!-- Active JS -->
-<script src="assets/js/active.js"></script>
-
-<!--=====  End of JS files ======-->
-
-</body>
-
-
-<!-- Mirrored from htmldemo.net/alula/alula/shop-left-sidebar.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 04 Feb 2023 07:11:31 GMT -->
+include "footer.php";
+?>
 
 </html>

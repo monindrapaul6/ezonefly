@@ -180,6 +180,7 @@
                                     <li class="active"><a href="/">Home</a></li> 
                                     <li><a href="category.php">Category</a></li>
                                     <li><a href="contact.php">Contact Us</a></li>
+                                    <li><a href="contact.php">Account</a></li>
 
                                 </ul>
                             </nav>

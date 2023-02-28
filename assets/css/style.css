@@ -2554,6 +2554,7 @@ select {
 
 .ht-slick-slider {
   position: relative;
+  display: flex;
 }
 .ht-slick-slider .slick-arrow {
   position: absolute;
@@ -8315,4 +8316,3 @@ h3.comment-counter {
 }
 
 /*=====  End of shop  ======*/
-

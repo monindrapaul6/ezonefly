@@ -6,22 +6,22 @@
     <div class="page-section pb-40">
         <div class="container">
             <div class="row">
-                <div class="col-sm-12 col-md-12 col-xs-12 col-lg-12 mb-30  pl-100 pr-100">
+                <div class="col-sm-12 col-md-12 col-xs-12 col-lg-12 mb-30 pl-100 pr-100">
                     <!-- Login Form s-->
                     <form action="#">
 
                         <div class="login-form">
-                            <h4 class="login-title">Welcome to Ezone Fly </h4>
+                            <h4 class="login-title">OTP Send to 9567896320 </h4>
                            
 
                             <div class="row">
                                 <div class="col-md-12 col-12 mb-20">
-                                    <label>Enter Your Mobile Number</label>
-                                    <input class="mb-0" type="email" placeholder="Eg. 9567896320">
+                                    <label>Enter your OTP</label>
+                                    <input class="mb-0" type="email">
                                 </div>                                                             
 
                                 <div class="col-md-12">
-                                    <button class="register-button mt-0">Continue</button>
+                                    <button class="register-button mt-0">Verify</button>
                                 </div>
 
                             </div>
