@@ -123,12 +123,6 @@
                                                         <input id="display-name" placeholder="Phone Number" type="text">
                                                     </div>
 
-                                                    <div class="col-12 mb-30">
-                                                        <input id="email" placeholder="Email Address" type="text">
-                                                    </div>
-
-
-
                                                     <div class="col-12">
                                                         <button class="save-change-btn">Save Changes</button>
                                                     </div>

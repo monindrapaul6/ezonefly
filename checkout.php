@@ -44,18 +44,23 @@ include "header.php";
                                 <!-- Cart Total -->
                                 <div class="col-12 mb-60">
 
+
                                     <div class="checkout-cart-total">
 
                                         <h4>Shipment Details</h4>
-                                        <div>
 
+                                        
+                                    <div class="d-grid gap-2 mt-2 mb-2">
+                                        <button class="button_add_address" type="button">+ Add Address</button>                                                    
+                                    </div>
+                                        <div>
                                             <ul>
                                                 <li>Monindra Paul</li>
                                             </ul>
                                             <ul>
                                                 <li>+91 9064062315</li>
                                             </ul>
-                                            <ul>
+                                            <ul>                                            
                                                 <li>Dharpmaur, Habra, West Bengal, 743249</li>
                                             </ul>
                                         </div>
@@ -72,8 +77,8 @@ include "header.php";
                                         <p>Shipping Fee <span>₹ 00.00</span></p>
                                         <h4>Grand Total <span>₹ 104.00</span></h4>
                                     </div>
-                                    <div class="col-12">
-                                        <button class="place-order">Place order</button>
+                                    <div class="d-grid gap-2 mt-2 mb-2">
+                                        <button class="button_add_address" type="button">Place Order</button>                                                    
                                     </div>
                                 </div>
 

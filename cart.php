@@ -43,13 +43,26 @@ include "header.php";
                                             fermentum</a></td>
                                     <td class="pro-price"><span>₹ 29.00</span></td>
                                     <td class="pro-quantity">
-                                        <div class="pro-qty"><input type="text" value="1"></div>
+                                        <select class="form-select" aria-label="Default select example">
+                                            <option selected>1</option>
+                                            <option value="2">2</option>
+                                            <option value="3">3</option>
+                                            <option value="4">4</option>
+                                            <option value="5">5</option>
+                                            <option value="6">6</option>
+                                            <option value="7">7</option>
+                                            <option value="8">8</option>
+                                            <option value="9">9</option>
+                                            <option value="10">10</option>
+                                        </select>
                                     </td>
                                     <td class="pro-subtotal"><span>₹ 29.00</span></td>
                                     <td class="pro-remove"><a href="#"><i class="fa fa-trash-o"></i></a></td>
                                 </tr>
 
                             </tbody>
+
+                            
                         </table>
                     </div>
 
@@ -93,12 +106,12 @@ include "header.php";
                             <div class="cart-summary-wrap">
                                 <h4>Cart Summary</h4>
                                 <p>Sub Total <span>₹ 1250.00</span></p>
+                                <p>Coupon Code <span>Coupon Applied</span></p>
                                 <p>Discount <span>₹ 00.00</span></p>
-                                <h2>Grand Total <span>₹ 1250.00</span></h2>
+                                <h2>Grand Total <span id="total-ammount">₹ 1250.00</span></h2>
                             </div>
-                            <div class="cart-summary-button">
-                                <button class="checkout-btn">Checkout</button>
-
+                            <div class="d-grid gap-2 mt-2 mb-2">
+                                <button class="button_add_address" type="button">Checkout</button>                                                    
                             </div>
                         </div>
 
